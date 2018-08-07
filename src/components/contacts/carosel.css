@@ -1,0 +1,25 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+.ahihi{
+  width: 200px;
+  height: 200px;
+  /* background: red; */
+  
+}
+
+.ahihi img{
+  width: 180px;
+  height: 180px;
+  margin: 15px;
+  margin-left: 20px;
+  border-radius: 10px;
+}
+
+.view {
+  width: 100%;
+}
+
+.view img { 
+  width: 100%;
+}
